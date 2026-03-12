@@ -1,11 +1,26 @@
+# 📚 Classical Fiction Game
 
-  # AI 기반 독서 게임
+**Classical Fiction Game** is an interactive, AI-powered reading game that brings classic literature to life. Immerse yourself in the timeless worlds of classic novels with dynamic storytelling, engaging UI, and interactive reading challenges!
 
-  This is a code bundle for AI 기반 독서 게임. The original project is available at https://www.figma.com/design/P7MrkN7iEMQ6gIhN1ZrM9u/AI-%EA%B8%B0%EB%B0%98-%EB%8F%85%EC%84%9C-%EA%B2%8C%EC%9E%84.
+## ✨ Features
+- **Interactive Storytelling**: Experience classic fictions through a gamified interface.
+- **AI-Powered Insights**: Get dynamic character analysis and story expansions.
+- **Modern & Responsive UI**: Beautifully crafted with high-end typography and smooth animations.
 
-  ## Running the code
+## 💻 Tech Stack
+- **Frontend**: React (TypeScript) + Vite
+- **Styling**: Tailwind CSS + Custom Animations
+- **Deployment**: Vercel
 
-  Run `npm i` to install the dependencies.
+## 🚀 Getting Started
 
-  Run `npm run dev` to start the development server.
-  
+```bash
+# Clone the repository
+git clone https://github.com/manodist/classical_fiction_game.git
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
