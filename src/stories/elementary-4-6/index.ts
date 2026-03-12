@@ -1,0 +1,17 @@
+export { generateHeungbuStory } from './흥부전';
+export { generateSimcheongStory } from './심청전';
+export { generateSeosaMugaStory } from './서사무가';
+export { generateOngojipStory } from './옹고집전';
+export { generateHongGyewolStory } from './홍계월전';
+export { generateJeokSeongUiStory } from './적성의전';
+export { generateKimWonStory } from './김원전';
+export { generateJanghwaHongryeonStory } from './장화홍련전';
+export { generateSamgukyusaStory } from './삼국유사';
+export { generateDukkeopjeonStory } from './두껍전';
+export { generateBakssijeonStory } from './박씨전';
+export { generateGeumbanguljeonStory } from './금방울전';
+export { generateParkMunsuStory } from './박문수전';
+export { generateHongGilDongStory } from './홍길동전';
+export { generateByeoljubuStory } from './별주부전';
+export { generateHeosaengStory } from './허생전';
+export { generateGangrimStory } from './강림도령전';

@@ -1,0 +1,16 @@
+export { generateHongdangmuStory } from './홍당무';
+export { generateOzStory } from './오즈의_마법사';
+export { generateTwentyThousandLeaguesStory } from './해저_이만_리';
+export { generateSecretGardenStory } from './비밀의_정원';
+export { generateFifteenBoysStory } from './15소년_표류기';
+export { generateFabreStory as generateFabreInsectsStory } from './파브르_곤충기';
+export { generateJungleBookStory } from './정글북';
+export { generateTomSawyerStory } from './톰_소여의_모험';
+export { generateAnneStory } from './빨간머리_앤';
+export { generateRobinsonStory } from './로빈슨_크루소';
+export { generateTreasureIslandStory } from './보물섬';
+export { generateAroundWorldStory } from './80일간의_세계일주';
+export { generateArabianNightsStory } from './아라비안_나이트';
+export { generateHuckFinnStory } from './허클베리_핀의_모험';
+export { generateJekyllHydeStory } from './지킬박사와_하이드';
+export { generateRomeoJulietStory } from './로미오와_줄리엣';
